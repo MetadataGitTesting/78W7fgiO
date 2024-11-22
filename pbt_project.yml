@@ -1,0 +1,49 @@
+name: gisele.bashirian
+description: hardware
+version: 0.0.1
+author: bnfd1ikc.ph7yjbso@y1rqxjov.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: giselebashirian
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:14:18'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:14:18'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:14:18.377708Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '283618534'
+  createdAt: '2024-11-22T23:14:18.377708Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
